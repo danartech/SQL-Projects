@@ -7,6 +7,9 @@ Welcome to the SQL Projects repository! This repository showcases my projects wh
 ### [Data Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA)
 - **Description:** Explored datasets using SQL queries, performed data cleaning, and conducted exploratory data analysis.
 
+### [Data Cleaning SQL Project](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
+- **Description:** Cleaned housing data using MySQL Server to ensure data accuracy and integrity.
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
