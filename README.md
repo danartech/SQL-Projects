@@ -10,6 +10,9 @@ Welcome to the SQL Projects repository! This repository showcases my projects wh
 ### [Data Cleaning SQL Project](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
 - **Description:** Cleaned housing data using MySQL Server to ensure data accuracy and integrity.
 
+### [Maven Movies Data Analysis SQL Project](https://github.com/danartech/Maven-Movies-Data-Analysis-SQL-Project)
+- **Description:** Conducted in-depth MySQL data analysis for MavenMovies to support insurance policy renewal, providing insights into staff demographics, inventory management, customer behavior, and financial risk assessment.
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
