@@ -19,6 +19,10 @@ Welcome to the SQL Projects repository! This repository showcases my projects wh
 ### [Retail Data Management System DBA SQL Project](https://github.com/danartech/Retail-Data-Management-System)
   - **Description:** Designed and implemented a retail data management system to track customer purchases, manage product and employee information, and ensure secure access through role-based user accounts.
 
+### [Database Normalization and Optimization DBA - SQL Project](https://github.com/danartech/Database-Normalization-and-Optimization/blob/main/README.md)
+  - **Description:** This project involved reorganizing a database by normalizing data into separate tables for inventory, films, and stores to improve efficiency, data integrity, and scalability.
+
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
